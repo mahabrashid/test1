@@ -1,0 +1,1 @@
+some texts in e.txt file.
